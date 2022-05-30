@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(110, 110, 228);
+    display: flex;
+    flex-direction: column;
+    margin: 10px 40px
+    
+}
+h1, h2 {
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-size: large;
+    line-height: 2em;
+    text-indent: 1em;
+}
+
+ul{
+    line-height: 3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+}
